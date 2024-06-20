@@ -1,8 +1,12 @@
 # Serial_Servo_RaspberryPi_HAT_Hardware
-<!--
-<img src= "" />
--->
+
+<img src= "https://cdn.shopify.com/s/files/1/1217/2104/files/Artboard_1_2.png?v=1718787431"/>
+The Serial Servo Raspberry Pi HAT is equipped with a range of versatile features. It offers multiple powering options, including a Type C power input for breakout use, as well as two alternative power sources through screw terminals and a DC jack, providing flexibility to suit your specific requirements.
+
+Additionally, it boasts four Serial Servo connectors, each accompanied by four programmable buttons, enhancing its functionality. For added safety and convenience, an on/off switch is incorporated into the design. Furthermore, the HAT features a 1.14” TFT Display to provide clear status indicators, ensuring a user-friendly experience.
+
 This Github provides hardware design files for Serial Servo RaspberryPi HAT.
+
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Serial_Servo_RaspberryPi_HAT_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
@@ -12,21 +16,21 @@ This Github provides hardware design files for Serial Servo RaspberryPi HAT.
 
 ## Related Products  
 
-  * [Serial Servo Pico HAT](https://shop.sb-components.co.uk/products/serial-servo-hat-for-pico?_pos=5&_sid=8d954c383&_ss=r)
+  * [Serial Servo Pico HAT](https://shop.sb-components.co.uk/products/serial-servo-pico-hat?_pos=5&_sid=1178c9361&_ss=r)
 
-    ![Serial_Servo_Pico_HAT](https://shop.sb-components.co.uk/cdn/shop/files/SerialServoPicoHAT.jpg?v=1698412993&width=150)
+    ![Serial_Servo_Pico_HAT](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_1.png?v=1718781807&width=150)
     
-  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield?_pos=4&_sid=8d954c383&_ss=r)
+  * [Serial Servo Arduino Shield](https://shop.sb-components.co.uk/products/serial-servo-arduino-shield-1?_pos=4&_sid=1178c9361&_ss=r)
 
-    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/servomotoron.jpg?v=1698413149&width=150)
+    ![Serial_Servo_Arduino_Shield](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2_3.png?v=1718793718&width=150)
 
-  * [Serial Servo ESP32](https://shop.sb-components.co.uk/products/serial-servo-based-on-esp32?_pos=6&_sid=8d954c383&_ss=r)
+  * [Serial Servo ESP32](https://shop.sb-components.co.uk/products/serial-servo-based-on-esp32-1?_pos=1&_sid=c593a9981&_ss=r)
 
-    ![Serial_Servo_ESP32](https://shop.sb-components.co.uk/cdn/shop/files/SerialServobasedonESP32.jpg?v=1698412841&width=150)
+    ![Serial_Servo_ESP32](https://shop.sb-components.co.uk/cdn/shop/files/esp322.png?v=1718797495&width=150)
   
-  * [Serial Servo Breakout](https://shop.sb-components.co.uk/products/serial-servo-breakout?_pos=2&_sid=25db0351c&_ss=r)
+  * [Serial Servo Breakout](https://shop.sb-components.co.uk/products/serial-servo-breakout-1?_pos=3&_sid=5d47c0d83&_ss=r)
 
-    ![Serial_Servo_Breakout](https://shop.sb-components.co.uk/cdn/shop/files/Breakout.jpg?v=1698413419&width=150)
+    ![Serial_Servo_Breakout](https://shop.sb-components.co.uk/cdn/shop/files/Artboard2.png?v=1718780131&width=150)
 
 
 
